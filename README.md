@@ -1,4 +1,4 @@
-# Project Title: AI-Powered Drug Repositioning and Mechanism of Action Discovery
+# AI-Powered Drug Repositioning and Mechanism of Action Discovery
 
 
 ## Overview
